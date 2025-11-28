@@ -1,0 +1,17 @@
+requests
+pyTelegramBotAPI
+openai
+python-dotenv
+# --- Для ML ---
+scikit-learn
+pandas
+numpy
+# --- Для трансформеров и GPU ---
+transformers
+torch
+# pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+# или cu121, в зависимости от вашей версии CUDA. Проверьте на pytorch.org
+# --- Для транслитерации ---
+unidecode
+# --- Для логирования ---
+colorlog # (опционально)

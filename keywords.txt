@@ -1,0 +1,90 @@
+# Specific Models/Brands (can be found without gas keywords)
+Golden Eagle M4
+Tokyo Marui MWS
+VFC HK416 A5
+GHK AK-74M
+WE Tech AK-47
+G&P WOC
+WE Tech CQBR
+EMG SAI
+King Arms TWS M4
+GHK M4
+Tokyo Marui HK416 D
+G&P WOC (M4)
+WE Tech M4
+WE Tech CQBR
+EMG / SAI / G&P (SAI GRY)
+King Arms TWS M4
+Golden Eagle M4 — бюджетный вариант для входа в GBBR.
+GHK AK-74M / AK-105
+WE Tech AK-74 / AKS-74U
+Tokyo Marui AKM / AKX
+LCT Z-Series (LCK)
+GHK RPK-16
+Tokyo Marui MP7 A1
+VFC MP7 / MP5 (последние поколения)
+KWA MP9
+WE Tech MP5 (Apache)
+GHK G5
+VFC UMP-45 / UMP-9
+KSC/KWA MP7
+S&T PP-19-01 "Витязь"
+WE Tech P90
+KWA Kriss Vector
+GHK SIG SG55x (SG550/551/552)
+VFC BCM MCMR
+WE Tech SCAR-L / SCAR-H
+VFC SCAR-H / SCAR-L
+GHK AUG A3
+WE Tech G36 / G39
+VFC HK G3 / PSG-1
+GHK M14 EBR
+KWA LM4 PTR
+VFC SR-16E3
+G&P Daniel Defense MK18
+WE Tech MSK / ACR
+VFC HK 417
+GHK MK12 Mod1
+WE Tech L85 (SA80)
+VFC KAC SR-25
+G&P Stoner 96 (LMG)
+WE TECH M14
+VFC HK G28
+Marushin M1 Carbine
+G&P Kar98k
+WE Tech P90
+KWA TK.45
+VFC BCM MCMR
+S&T Tavor Tar-21
+
+# General Models/Brands (require gas keywords)
+M4
+AK
+HK416
+MP5
+MP7
+SCAR
+G36
+UMP
+Vector
+AUG
+MWS
+Tokyo Marui
+TM
+GHK
+VFC
+WE
+WE Tech
+KWA
+Viper Tech
+VT
+G&P
+
+# Gas-related keywords
+GBBR
+ГББР
+Газовый привод
+Газовая винтовка
+Газовый карабин
+GBB
+Gas Blowback

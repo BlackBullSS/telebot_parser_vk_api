@@ -1,0 +1,228 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# pipenv
+Pipfile.lock
+
+# PEP 582
+__pypackages__/
+
+# Celery stuff
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath parsed files
+*.sage.py
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# IDE
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+logs/
+
+# Environment variables
+.env
+.env.local
+.env.dev
+.env.prod
+
+# Models cache (HuggingFace, SentencePiece, etc.)
+models/t5_custom/
+~/.cache/
+# ~/.cache/huggingface/ # (если кэш сохраняется туда и его много)
+
+# Database
+parsed_posts.db
+parsed_posts.db-journal # SQLite journal file
+
+# Large model files (if any)
+*.bin
+*.safetensors
+*.pth
+*.pt
+*.ckpt
+*.model
+*.json # (если в папке модели есть служебные json файлы, можно указать конкретные)
+
+# Large dataset files (if any)
+*.parquet
+*.csv # (если очень большие csv файлы, иначе можно не игнорировать)
+*.jsonl # (если очень большие jsonl файлы)
+
+# Compiled binary addons (usualy not commited)
+*.node
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Temporary folders
+tmp/
+temp/
+
+# Output of 'grunt build' etc.
+dist/
+out/
+
+# Debug log
+debug.log
+
+# Processed data (if stored locally and not needed in repo)
+data/processed/
+# Raw data (if very large and stored locally, uncomment if needed)
+# data/raw/
+
+# Personal settings (example)
+.settings/
+
+# Local configuration (example)
+.local/
+
+# Output of static site generators (example for Hugo)
+public/
+
+# Output of bundlers (example for Vite)
+dist/
+
+# Lock files for package managers other than pip
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Electron specific stuff
+electron-builder-builder/
+
+# Test results
+test-results/
+
+# Macports generated files
+*.dmg
+
+# Temporary file created by the application during runtime
+runtime.tmp
+
+# Local secrets (example)
+secrets.json
+
+# Backup files
+*.bak
+*~
+
+# Swap files
+.*.swp
+.*.swo
+
+# Output directory for tests
+test_output/
+
+# Temporary files created by various tools
+*.tmp
+*.temp
