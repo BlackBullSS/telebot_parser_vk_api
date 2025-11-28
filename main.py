@@ -89,7 +89,7 @@ load_dotenv()
 
 TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
 VK_SERVICE_TOKEN = os.getenv("VK_SERVICE_TOKEN")
-CHAT_ID = -1002995030740  # Например, -1001234567890
+CHAT_ID =  # Например, -1001234567890
 
 GROUPS_TO_MONITOR = [
     -191504008,  # Страйкбольная барахолка. Москва и МСК область
